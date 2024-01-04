@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   return {
     restrict: 'E',
     templateUrl: 'skill-member.html'
