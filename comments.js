@@ -1,4 +1,4 @@
-// Create web  server
+// Create web server
 // 1. Import express
 const express = require('express');
 const commentController = require('../controllers/commentController');
